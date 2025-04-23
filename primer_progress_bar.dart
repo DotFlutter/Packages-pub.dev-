@@ -82,9 +82,9 @@ class _CustomPrimerProgressBarState extends State<CustomPrimerProgressBar> {
 
   @override
   Widget build(BuildContext context) {
-    // Package "PrimerProgressBar"
     return Scaffold(
       body: Center(
+         // Package "PrimerProgressBar"
         child: PrimerProgressBar(
           segments: segments,
           legendStyle: const SegmentedBarLegendStyle(maxLines: 2),
