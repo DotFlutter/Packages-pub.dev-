@@ -5,7 +5,7 @@
         <tr>
             <td align="center">
                 <h3>PrimerProgressBar</h3>
-                <img src="https://github.com/user-attachments/assets/38fd9629-afb3-471b-9521-545bdb2567cb" width="250" height="auto">
+                <img src="https://github.com/user-attachments/assets/38fd9629-afb3-471b-9521-545bdb2567cb" width="280" height="auto">
             </td>
 <!--             <td align="center">
                 <h3>Food Hub Drawer Design(2)</h3>
