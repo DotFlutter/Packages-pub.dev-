@@ -16,7 +16,7 @@
             <!-- 3rd -->
                 <td align="center">
                 <h3>3_Rating_Indicator</h3>
-                <img src="https://github.com/user-attachments/assets/8885ff8e-5404-49d1-a527-8c177aeb59ea" width="280" height="auto">
+                <img src="https://github.com/user-attachments/assets/4ac8aa47-5bfd-486b-aa91-4b0f42dd808c" width="280" height="auto">
             </td>
 
         </tr>
